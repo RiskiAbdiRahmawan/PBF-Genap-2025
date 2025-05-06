@@ -6,12 +6,12 @@ export const metadata: Metadata = {
   title: "Tentang Saya",
   description: "Lebih lanjut tentang saya dan apa yang saya lakukan",
   openGraph: {
-    title: "Tentang Saya",
-    description: "Lebih lanjut tentang saya dan apa yang saya lakukan",
+    images: "/public/images/fotoProfil.jpg",
+    url: "https://example.com/about",
   },
 };
 
-export default function About() {
+export default function About({metadata}: any) {
   return (
     <div className="min-h-screen flex items-center justify-center px-4 sm:px-8 py-16 bg-gray-100">
       <div className="max-w-2xl w-full bg-white rounded-xl shadow-lg overflow-hidden">

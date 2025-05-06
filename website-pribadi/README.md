@@ -63,3 +63,18 @@ Eksplorasi Tailwindcss, kemudian.
 ![tugasno1](img/tugasno1.png) 
 2. Modifikasi halaman “Tentang Saya” Buat tampilan yang menarik
 ![tugasno2](img/tugasno2.png)
+
+## Laporan Praktikum SEO
+1. Menambahkan Favicon
+![langkah1](img/langkah1SEO.png)
+2. Hasil Menambahkan dan Menerapkan OpenGraph Tags di Halaman "Tentang Saya"
+![langkah2](img/hasilmetadata1.png)
+3. Hasil Menambahkan dan Menerapkan OpenGraph Tags di Halaman "Proyek"
+![langkah2](img/hasilmetadata2.png)
+2. Hasil Menambahkan dan Menerapkan OpenGraph Tags di Halaman "Esai"
+![langkah2](img/hasilmetadata3.png)
+
+## Tugas Praktikum SEO
+1. Melakukan Uji Coba performa SEO menggunakan tools bawaan chrome yaitu Lighthouse
+![tugasno1](img/tugasseo1.png)
+![tugasno1](img/tugasseo2.png)

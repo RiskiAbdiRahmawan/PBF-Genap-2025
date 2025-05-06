@@ -34,8 +34,8 @@ export const metadata: Metadata = {
   title: "Proyek",
   description: "Halaman proyek",
   openGraph: {
-    title: "Proyek",
-    description: "Halaman proyek",
+    images:["/public/images/project1.png","/public/images/project2.png"],
+    url: "https://example.com/projects",
   },
 };
 

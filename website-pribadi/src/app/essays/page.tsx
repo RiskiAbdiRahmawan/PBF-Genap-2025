@@ -4,8 +4,8 @@ export const metadata: Metadata = {
   title: "Esai",
   description: "Daftar artikel dan esai yang telah saya tulis",
   openGraph: {
-    title: "Esai",
-    description: "Daftar artikel dan esai yang telah saya tulis",
+    images: "https://example.com/essays.jpg",
+    url: "https://example.com/essays",
   },
 };
 
